@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## JOB HUNT
 Job Hunt is a comprehensive Job Application System where job seekers can easily browse and apply for job postings.Enabled employers to post job and internship opportunities with detailed requirements and descriptions. 
 
@@ -54,3 +55,6 @@ spring.jpa.hibernate.ddl-auto=update
 # JobHunt
 JobHunt is a full-stack job portal web application built using React, Tailwind CSS, and Spring Boot. It provides a streamlined platform where job seekers can find opportunities and employers can post and manage job listings efficiently. The project focuses on creating a responsive, secure, and scalable solution for modern recruitment needs.
 >>>>>>> 5ff29de04d65a8a6fa213d6f79c44fbcd4e0c7ed
+=======
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/KeESDgxI)
+>>>>>>> 2ce50df22a896ca3dd645c333fc16500ad7661b9
