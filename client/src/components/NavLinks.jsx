@@ -7,6 +7,7 @@ const NavLinks = ({role}) => {
   const applicantLinks=[
     { name: 'Find Jobs', url: "/find-jobs" },
     {name:'Saved Jobs', url:"/saved-jobs"},
+    { name: 'Build Resume', url: "/build-resume" },
     { name: 'About', url: "/about" }
   ]
   const employerLinks = [

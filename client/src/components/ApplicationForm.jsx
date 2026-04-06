@@ -32,15 +32,19 @@ const ApplicationForm = () => {
         e.preventDefault();
         if(applicantDetails.phone.length<10){
             toast.error('Phone number should be 10 digits long');
+            return;
         }
         if(!applicantDetails.portfolio){
             toast.error('Portfolio link is required');
+            return;
         }
         if(!applicantDetails.resume){
             toast.error("Resume Link is required");
+            return;
         }
         if(!applicantDetails.linkedIn){
             toast.error("LinkedIn Profile is required");
+            return;
         }
 
       console.log("Sending Application",applicantDetails);
